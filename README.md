@@ -1,4 +1,11 @@
-### Hi there 👋
+# Kitravee Siwatkittisuk
+⭐ Hi there, I am Trongtong | A Software engineer | Live in Thailand 
+
+## Git in touch
+<ul>
+  <li>Linkedin: https://www.linkedin.com/in/kitravee/</li>
+  <li>Funny portfolio: https://kitfolio.netlify.app/</li>
+ </ul>
 
 <!--
 **kitravee/kitravee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
