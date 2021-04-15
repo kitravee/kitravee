@@ -10,7 +10,6 @@
 	  <a href="https://www.linkedin.com/in/kitravee"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   </p>
   </li>
-  <li>Funny portfolio: https://kitfolio.netlify.app/</li>
 </ul>
 
 
